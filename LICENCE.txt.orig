@@ -1,0 +1,11 @@
+This is demo file for git
+
+this is new file
+
+<<<<<<< HEAD
+again changing this code
+=======
+i want to make some changes in this particular file
+
+i am adding one more new line here
+>>>>>>> newbranch
